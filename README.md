@@ -14,7 +14,7 @@ Feathers is a full-stack framework for creating web APIs and real-time applicati
 
 Feathers can interact with any backend technology, supports many databases out of the box and works with any frontend like React, VueJS, Angular, React Native, Android or iOS.
 
-# Getting started
+# Getting started to Feathers
 
 Get started with just three commands:
 
